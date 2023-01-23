@@ -25,9 +25,11 @@ def success():
 success()
 ```
 
-<span>
+<p>
 <a href="https://github.com/vachhaninirav"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vachhaninirav&amp;layout=compact&amp;theme=gotham" alt="Top Langs"></a>
-<span/>
-<span>
+<p/>
+
+#### GitHub Statistics
+<p>  
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vachhaninirav&theme=github-dark" alt="GitHub Streak"></a>
-<span/>
+<p/>

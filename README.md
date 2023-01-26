@@ -4,7 +4,7 @@
 </a>
 </div>
 <p>
-I'm an enthusiastic full stack developer from India. An aspiring techie and experienced professional owns strong analytical, reasoning, and technical skills. I'm passionate to explore various programming technologies.
+I'm an enthusiastic full stack developer from India, An aspiring techie and experienced professional, owns strong analytical, reasoning, and technical skills. I'm passionate to explore various programming technologies.
 </p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vachhani-nirav-aa9a6468/)

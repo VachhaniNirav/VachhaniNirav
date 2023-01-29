@@ -32,5 +32,5 @@ success()
 <a href="https://github.com/vachhaninirav"><img width=41% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vachhaninirav&amp;layout=compact&amp;theme=gotham" alt="Top Langs"></a>
 <span/>
 <div/>
-
+<br>
 <p align=right><img src="https://komarev.com/ghpvc/?username=vachhaninirav-github-username&amp;label=views&color=brightgreen" alt=""></p>

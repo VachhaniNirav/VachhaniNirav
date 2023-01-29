@@ -1,4 +1,3 @@
-
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&amp;size=25&amp;duration=1000&amp;pause=1000&amp;color=02D400&amp;width=350&amp;lines=%3C+Hello%2C+World!%2F%3E;%3C+Namaste%2C+World!%2F%3E;%3C+Bonjour%2C+World!%2F%3E;%3C+Hola%2C+World!%2F%3E;%3C+Ciao%2C+World!%2F%3E;%3C+Kon&#39;nichiwa%2C+World!%2F%3E;%3C+N%C4%AD+h%C4%83o%2C+World!%2F%3E">
 </a>
@@ -31,4 +30,3 @@ success()
 <a href="https://github.com/vachhaninirav"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vachhaninirav&amp;layout=compact&amp;theme=gotham" alt="Top Langs"></a>
 <span/>
 <p align=right><img src="https://komarev.com/ghpvc/?username=vachhaninirav-github-username&amp;label=views&color=brightgreen" alt=""></p>
-

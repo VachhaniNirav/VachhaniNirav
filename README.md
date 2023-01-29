@@ -26,7 +26,7 @@ success()
 ### 📈 GitHub Statistics
 <div>
 <span>
-<a href="https://git.io/streak-stats"><img width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=vachhaninirav&theme=github-dark" alt="GitHub Streak"></a>
+<a href="https://git.io/streak-stats"><img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vachhaninirav&theme=github-dark" alt="GitHub Streak"></a>
 <span/>
 <span>
 <a href="https://github.com/vachhaninirav"><img width=41% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vachhaninirav&amp;layout=compact&amp;theme=gotham" alt="Top Langs"></a>

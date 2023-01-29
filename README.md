@@ -24,11 +24,11 @@ success()
 ```
 
 ### 📈 GitHub Statistics
-<span>  
+<span>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vachhaninirav&theme=github-dark" alt="GitHub Streak"></a>
 <span/>
 <span>
 <a href="https://github.com/vachhaninirav"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vachhaninirav&amp;layout=compact&amp;theme=gotham" alt="Top Langs"></a>
 <span/>
-    
+
 <p align=right><img src="https://komarev.com/ghpvc/?username=vachhaninirav-github-username&amp;label=views&color=brightgreen" alt=""></p>

@@ -3,7 +3,10 @@
 </a>
 </div>
 <p>
-I'm a Logical and result-driven software developer from India. An experienced professional owns expertise within designing, developing, integrating, and implementing scalable user-focused web applications. Proficient in both front-end and back-end development. Exposure to the full software development life cycle (SDLC) and agile software development including requirement gathering, prototyping, debugging, testing, and deployment. An analytical problem solver with excellent communication and teamwork abilities.
+I'm a Logical and result-driven software developer from India. An experienced professional owns expertise within designing, developing, integrating, and implementing scalable user-focused web applications. Proficient in both front-end and back-end development.
+</p>
+<p>
+Exposure to the full software development life cycle (SDLC) and agile software development including requirement gathering, prototyping, debugging, testing, and deployment. An analytical problem solver with excellent communication and teamwork abilities.
 </p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vachhani-nirav-aa9a6468/)

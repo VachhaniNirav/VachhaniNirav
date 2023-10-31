@@ -3,7 +3,7 @@
 </a>
 </div>
 <p>
-I'm a Logical and result-driven software developer from India. An experienced professional owns expertise within designing, developing, integrating, and implementing scalable user-focused web applications. Proficient in both front-end and back-end development.
+I'm a Logical and result-driven software engineer from India. An experienced professional owns expertise within designing, developing, integrating, and implementing scalable user-focused web applications. Proficient in both front-end and back-end development.
 </p>
 <p>
 Exposure to the full software development life cycle (SDLC) and agile software development including requirement gathering, prototyping, debugging, testing, and deployment. An analytical problem solver with excellent communication and teamwork abilities.

@@ -26,12 +26,16 @@ Expertise with the full software development life cycle (SDLC) and agile softwar
 
 ### 🐍 pymotivation
 ```python3
-import __future__ as tomorrow
-import passion, dedication, persistence
+class Traits:
+    def __init__(self, passion, dedication, persistence):
+        self.passion = passion
+        self.dedication = dedication
+        self.persistence = persistence
 
-def success():
-    return dedication + persistence if passion else None
-success()
+def success(traits):
+    return traits.dedication + traits.persistence if traits.passion else None
+
+print((lambda traits: success(traits))(Traits(True, 10, 10)))
 ```
 
 ### 📈 GitHub Statistics

@@ -6,7 +6,7 @@
 I’m a highly analytical and results-oriented software engineer from India, specializing in the design, development, and implementation of scalable, user-focused web applications. With expertise in both front-end and back-end development, I create robust solutions that deliver value at every stage of the software development life cycle (SDLC).
 </p>
 <p>
-Skilled in agile methodologies, I have experience across all phases of development, including requirements analysis, prototyping, debugging, testing, and production deployment. As a methodical problem solver, I thrive in collaborative environments, leveraging my strong analytical abilities, clear communication, and teamwork skills to drive successful outcomes.
+Skilled in agile methodologies, I have experience across all phases of development, including requirements analysis, prototyping, debugging, testing, and production deployment. As a methodical problem solver, I thrive in collaborative environments and am equally adept at working independently, leveraging my strong analytical abilities, clear communication, and teamwork skills to drive successful outcomes.
 </p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vachhani-nirav-aa9a6468/)

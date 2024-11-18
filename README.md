@@ -24,7 +24,7 @@ Skilled in agile methodologies, I have experience across all phases of developme
 <img src="https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white" alt="Electron">
 </p>
 
-### 🐍 pymotivation
+### 🐍 PyMotivation
 ```python3
 class Traits:
     def __init__(self, passion, dedication, persistence):

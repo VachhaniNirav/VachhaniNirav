@@ -40,12 +40,12 @@ print((lambda traits: success(traits))(Traits(True, 10, 10)))
 
 ### 📈 GitHub Statistics
 <div>
-<span>
+<!-- <span>
 <a href="https://git.io/streak-stats"><img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vachhaninirav&theme=github-dark" alt="GitHub Streak"></a>
 <span/>
-<span>
-<a href="https://github.com/vachhaninirav"><img width=41% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vachhaninirav&amp;layout=compact&amp;theme=gotham" alt="Top Langs"></a>
-<span/>
+<span> -->
+<a href="https://github.com/vachhaninirav"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vachhaninirav&amp;layout=compact&amp;theme=gotham&amp;card_width=1000&amp;langs_count=10" alt="Top Langs"></a>
+<!-- <span/> -->
 <div/>
 <br>
 <p align=right><img src="https://komarev.com/ghpvc/?username=vachhaninirav-github-username&amp;label=views&color=brightgreen" alt=""></p>

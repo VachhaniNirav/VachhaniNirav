@@ -3,10 +3,10 @@
 </a>
 </div>
 <p>
-I’m a results-oriented software engineer from India with expertise on building and deploying user-centric applications. Proficient in both front-end and back-end technologies, I create robust solutions that deliver value at every stage of the software development life cycle (SDLC).
+I’m a results-oriented Software Engineer from India with expertise on building and deploying user-centric applications. Proficient in both front-end and back-end technologies, I create robust solutions that deliver value at every stage of the Software Development Life Cycle (SDLC).
 </p>
 <p>
-Skilled in agile methodologies. As a methodical problem solver, I thrive in collaborative environments and am equally adept at working independently, utilizing my strong analytical abilities, clear communication, and teamwork skills to drive successful outcomes. I am committed to leveraging my expertise to advance innovative projects that deliver meaningful impact.
+Skilled in Agile methodologies. As a methodical problem solver, I thrive in collaborative environments and am equally adept at working independently, utilizing my strong analytical abilities, clear communication, and teamwork skills to drive successful outcomes. I am committed to leveraging my expertise to advance innovative projects that deliver meaningful impact.
 </p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vachhani-nirav-aa9a6468/)
